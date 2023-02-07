@@ -4,6 +4,21 @@
 
 ---
 
+DB
+test.employees
+{
+  "_id": {
+    "$oid": "6375ddd7f288faa593081213"
+  },
+  "username": "admin",
+  "active": "true",
+  "password": "$2a$12$YfmEjMZ9EVBbpJGSG3JNX.C8PwmBdPdqavqI660gFvfkDFXo1ZAcS",
+  "roles": [
+    "admin"
+  ]
+}
+
+
 ### Author Links
 
 👋 Hello, I'm Dave Gray.
